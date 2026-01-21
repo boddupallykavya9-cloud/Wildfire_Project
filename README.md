@@ -91,7 +91,7 @@ The application will open in your browser at:
 
 ## 🧪 Model Training (Optional)
 To retrain the model using your own dataset:
-```bash
+
 python train.py
 The trained model will be saved locally as an .h5 file 
 
